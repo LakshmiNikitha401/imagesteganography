@@ -1,0 +1,6 @@
+uploads/
+extracted/
+.env
+*.pyc
+__pycache__/
+*.log
